@@ -11,7 +11,7 @@
 
 ---
 
-🎓 I'm a **third-year student** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**  
+🎓 I'm an **IT student** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**  
 🚀 Currently seeking an **internship opportunity** in **Frontend Development** or **Software Development**  
 📌 GitHub: [https://github.com/Moitapcod](https://github.com/Moitapcod)  
 📧 Email: **baocongle204@gmail.com**  

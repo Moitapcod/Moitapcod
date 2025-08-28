@@ -1,0 +1,19 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: generate pacman-contribution-graph
+        uses: Platane/pacman-contribution-graph@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: pacman-contribution-graph.svg
+          svg_out_path_dark: pacman-contribution-graph-dark.svg

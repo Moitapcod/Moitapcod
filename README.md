@@ -21,7 +21,9 @@
 
 ### 🌱 Currently Learning
 - **Spring Boot Framework**
-- **JavaScript**, **ReactJS**, **NodeJS**
+- ⚡ Microsoft Power Apps (custom business apps)
+- 🔄 Power Automate (workflow automation)
+- 🏢 Dynamics 365 Finance & Operations (ERP & Master Data)
 
 ---
 
